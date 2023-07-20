@@ -1,0 +1,15 @@
+C:\Users\mattl\Desktop\xml\XmlTest\XmlTest\bin\Debug\net7.0\XmlTest.exe
+C:\Users\mattl\Desktop\xml\XmlTest\XmlTest\bin\Debug\net7.0\XmlTest.deps.json
+C:\Users\mattl\Desktop\xml\XmlTest\XmlTest\bin\Debug\net7.0\XmlTest.runtimeconfig.json
+C:\Users\mattl\Desktop\xml\XmlTest\XmlTest\bin\Debug\net7.0\XmlTest.dll
+C:\Users\mattl\Desktop\xml\XmlTest\XmlTest\bin\Debug\net7.0\XmlTest.pdb
+C:\Users\mattl\Desktop\xml\XmlTest\XmlTest\obj\Debug\net7.0\XmlTest.csproj.AssemblyReference.cache
+C:\Users\mattl\Desktop\xml\XmlTest\XmlTest\obj\Debug\net7.0\XmlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattl\Desktop\xml\XmlTest\XmlTest\obj\Debug\net7.0\XmlTest.AssemblyInfoInputs.cache
+C:\Users\mattl\Desktop\xml\XmlTest\XmlTest\obj\Debug\net7.0\XmlTest.AssemblyInfo.cs
+C:\Users\mattl\Desktop\xml\XmlTest\XmlTest\obj\Debug\net7.0\XmlTest.csproj.CoreCompileInputs.cache
+C:\Users\mattl\Desktop\xml\XmlTest\XmlTest\obj\Debug\net7.0\XmlTest.dll
+C:\Users\mattl\Desktop\xml\XmlTest\XmlTest\obj\Debug\net7.0\refint\XmlTest.dll
+C:\Users\mattl\Desktop\xml\XmlTest\XmlTest\obj\Debug\net7.0\XmlTest.pdb
+C:\Users\mattl\Desktop\xml\XmlTest\XmlTest\obj\Debug\net7.0\XmlTest.genruntimeconfig.cache
+C:\Users\mattl\Desktop\xml\XmlTest\XmlTest\obj\Debug\net7.0\ref\XmlTest.dll
